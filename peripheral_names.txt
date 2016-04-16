@@ -1,5 +1,6 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+cofh.thermalexpansion.block.tank.TileTank	thermalexpansion_tank
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand
@@ -16,3 +17,8 @@ net.minecraft.tileentity.TileEntityHopper	hopper
 net.minecraft.tileentity.TileEntityNote	note_block
 net.minecraft.tileentity.TileEntitySign	sign
 net.minecraft.tileentity.TileEntitySkull	skull
+tconstruct.smeltery.logic.CastingBasinLogic	peripheral
+tconstruct.smeltery.logic.CastingTableLogic	peripheral
+tconstruct.smeltery.logic.FaucetLogic	faucet
+tconstruct.smeltery.logic.SmelteryDrainLogic	tconstruct_smelterydrain
+tconstruct.smeltery.logic.SmelteryLogic	crafters_smeltery
