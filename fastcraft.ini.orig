@@ -1,5 +1,9 @@
 ; FastCraft config
+<<<<<<< HEAD
+; created Apr 18, 2016 5:09:31 AM
+=======
 ; created Apr 16, 2016 1:26:52 PM
+>>>>>>> master
 ;---
 
 ; Settings purely affecting performance, but not gameplay.
